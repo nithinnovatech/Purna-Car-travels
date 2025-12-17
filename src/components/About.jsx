@@ -60,7 +60,7 @@ const About = () => {
                         {/* Image */}
                         <div className="relative rounded-2xl overflow-hidden shadow-2xl mb-8 group">
                             <img
-                                src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80"
+                                src="/images/fleet-about.png"
                                 alt="Purna Car Travels Fleet"
                                 className="w-full h-80 object-cover group-hover:scale-110 transition-transform duration-500"
                             />

@@ -6,42 +6,42 @@ const Fleet = () => {
         {
             name: 'Toyota Innova Crysta',
             category: 'SUV',
-            image: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&q=80',
+            image: '/images/innova-crysta.png',
             features: ['7 Seater', 'AC', 'Comfortable'],
             type: 'car'
         },
         {
             name: 'Maruti Swift Dzire',
             category: 'Sedan',
-            image: 'https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80',
+            image: '/images/swift-dzire.png',
             features: ['4 Seater', 'AC', 'Fuel Efficient'],
             type: 'car'
         },
         {
             name: 'Toyota Etios',
             category: 'Sedan',
-            image: 'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80',
+            image: '/images/toyota-etios.png',
             features: ['4 Seater', 'AC', 'Reliable'],
             type: 'car'
         },
         {
             name: 'Chevrolet Tavera',
             category: 'MUV',
-            image: 'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80',
+            image: '/images/chevrolet-tavera.png',
             features: ['8 Seater', 'AC', 'Spacious'],
             type: 'car'
         },
         {
             name: 'Force Tempo Traveller',
             category: 'Mini Bus',
-            image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80',
+            image: '/images/tempo-traveller.png',
             features: ['12-17 Seater', 'AC', 'Group Travel'],
             type: 'bus'
         },
         {
             name: 'Tourist Buses',
             category: 'Bus',
-            image: 'https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800&q=80',
+            image: '/images/tourist-bus.png',
             features: ['20-40 Seater', 'AC', 'Long Distance'],
             type: 'bus'
         }

@@ -8,7 +8,7 @@ const Hero = () => {
             <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-900/90 via-blue-800/85 to-orange-600/80 z-10"></div>
                 <img
-                    src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1920&q=80"
+                    src="/images/hero-background.png"
                     alt="Luxury Cars"
                     className="w-full h-full object-cover"
                 />
